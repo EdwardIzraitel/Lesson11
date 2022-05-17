@@ -1,0 +1,9 @@
+---
+- name: "Reyan Ali"
+  address: "Phokka Kuan, Ambehta Peer"
+  SSN: 11122333
+  number: 101
+- name: "Micheal"
+  address: "Somewhere"
+  SSN: 123
+  number: 202
